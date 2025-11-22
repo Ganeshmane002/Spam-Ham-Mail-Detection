@@ -19,6 +19,7 @@ Built a simple Streamlit web app for prediction
 
 
 🧪 How to Run the Web App
+
 pip install -r requirements.txt
 streamlit run app.py
 
