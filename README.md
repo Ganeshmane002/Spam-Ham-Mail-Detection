@@ -26,11 +26,14 @@ streamlit run app.py
 
 
 📂 Files Included
-File	Description
-app.py	Streamlit web interface
-model.joblib	Trained classification model
-scaled.joblib	CountVectorizer object
-requirements.txt	Required Python libraries
+
+app.py --> Streamlit web interface
+
+model.joblib --> Trained classification model
+
+scaled.joblib --> CountVectorizer object
+
+requirements.txt --> Required Python libraries
 
 🧠 Tech Used: Python, CountVectorizer, Multinomial, Naive Bayes, Streamlit, Joblib
 
